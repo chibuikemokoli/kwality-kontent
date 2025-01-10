@@ -228,6 +228,10 @@ body {
     align-items: center;
 }
 
+.nav__data a {
+    color: #fff;
+}
+
 .nav__logo {
     display: inline-flex;
     align-items: center;
@@ -239,7 +243,7 @@ body {
     font-weight: var(--font-semi-bold);
     color: #ffffff;
     outline: auto;
-    transition: 2s;
+    transition: 1.4s;
     /* Color highlighting when pressed on mobile devices */
     /*-webkit-tap-highlight-color: transparent;*/
 }
